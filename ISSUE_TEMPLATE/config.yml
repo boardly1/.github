@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Boardly discussions
+    url: https://github.com/boardly1/planning/discussions
+    about: Ask questions or discuss ideas before opening an issue.
+  - name: Current source repository
+    url: https://github.com/Timurc390/Boardly
+    about: Current codebase before repository transfer.
