@@ -1,0 +1,10 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Boardly logo</title>
+  <desc id="desc">A clean kanban-style board mark for Boardly.</desc>
+  <rect width="192" height="192" rx="36" fill="#0D1117"/>
+  <rect x="34" y="38" width="124" height="116" rx="18" fill="#F6F8FA"/>
+  <rect x="50" y="58" width="32" height="76" rx="8" fill="#2F81F7"/>
+  <rect x="80" y="58" width="32" height="46" rx="8" fill="#3FB950"/>
+  <rect x="110" y="58" width="32" height="92" rx="8" fill="#F85149"/>
+  <path d="M58 142H134" stroke="#0D1117" stroke-width="10" stroke-linecap="round"/>
+</svg>
