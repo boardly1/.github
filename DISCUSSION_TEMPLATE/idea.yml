@@ -1,0 +1,23 @@
+title: "Idea: "
+labels:
+  - idea
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+      description: What should Boardly add, change, or explore?
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why it matters
+      description: What user or project problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Links, screenshots, sketches, or extra context.
